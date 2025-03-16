@@ -7,3 +7,6 @@ alert.py - Send Alert with a list of low stock commodities
 drugStore.py - Backend. Control fucntionality and Data Manipulation
 ImmediateAlert.py- Send Immediate Alert once good is bellow threshold .ie: 10
 pharmacy.db - Database
+
+Change email addresses for Sending and for the Receepient email
+Put password for the Sender Email
